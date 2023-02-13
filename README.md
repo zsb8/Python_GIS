@@ -1,7 +1,7 @@
 # Python_GIS
-input coordinate and get the Geocode from Statistics Canada.    
+Input coordinate and get the Geocode from Statistics Canada.    
 
-The developed Python program uses geographical information from a shapefile and a data frame with coordinates to identify the geographical area that a given coordinate belongs to. This analysis is performed using the Shapely library, which helps to determine the relevant geocode (a unique identifier for the geographical area) and add it as a new column to the original data frame. The output of this program associates a set of coordinates with a specific geographical area, providing valuable information for mapping and spatial analysis purposes.
+My developed Python program uses geographical information from a shapefile and a data frame with coordinates to identify the geographical area that a given coordinate belongs to. This analysis is performed using the Shapely library, which helps to determine the relevant geocode (a unique identifier for the geographical area) and add it as a new column to the original data frame. The output of this program associates a set of coordinates with a specific geographical area, providing valuable information for mapping and spatial analysis purposes.
 
 # Main code
 ```
