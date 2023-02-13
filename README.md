@@ -53,7 +53,7 @@ if isinstance(value, str) or isinstance(value, list):
 # How to use
 ![image](https://user-images.githubusercontent.com/75282285/218524658-688163a6-22f0-43f2-b65e-e2a76b9b2be3.png)
 
-my data tool for co-worker
+my data tool
 ![image](https://user-images.githubusercontent.com/75282285/218524740-369a7233-25b8-4574-8397-6569973cfa4f.png)
 
 
