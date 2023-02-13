@@ -56,4 +56,6 @@ if isinstance(value, str) or isinstance(value, list):
 my data tool
 ![image](https://user-images.githubusercontent.com/75282285/218524740-369a7233-25b8-4574-8397-6569973cfa4f.png)
 
+# Test result
+![image](https://user-images.githubusercontent.com/75282285/218524966-8774bdaa-45b4-4d4b-8389-51fba44a379e.png)
 
