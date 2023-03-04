@@ -49,10 +49,8 @@ if isinstance(value, str) or isinstance(value, list):
 # Resilt product
 I developed and provided various data tools that were utilized in data analysis projects. These tools were designed to gather, clean, transform, and store large amounts of data in a centralized location. This allowed data analysts and scientists to easily access and analyze the data, using a variety of visualization and reporting tools.     
 One key aspect of these data tools was their ability to display the analyzed data in maps and reports, providing key insights and visualizations for stakeholders. This was accomplished through the use of mapping and reporting tools such as Tableau, Power BI, and ArcGIS, among others.    
-![image](https://user-images.githubusercontent.com/75282285/222921740-d6db1776-3f41-4cb5-bfbc-f09981461977.png)
+![image](https://user-images.githubusercontent.com/75282285/222921777-71a3baca-d046-4741-8e28-d6e3e3b1d424.png)
 
-
-https://www.youtube.com/watch?v=t7FHf5RlEA0
 
 # Data Source
 ![image](https://user-images.githubusercontent.com/75282285/218524464-67f4b510-03ad-4732-afa0-0b89d7b0a89b.png)
