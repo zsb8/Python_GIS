@@ -54,6 +54,7 @@ I developed and provided various data tools that were utilized in data analysis 
 One key aspect of these data tools was their ability to display the analyzed data in maps and reports, providing key insights and visualizations for stakeholders. This was accomplished through the use of mapping and reporting tools such as Tableau, Power BI, and ArcGIS, among others.    
 ![image](https://user-images.githubusercontent.com/75282285/222921794-d2da7291-78c5-4ed7-857d-3fe97cff875d.png)
 
+![image](https://user-images.githubusercontent.com/75282285/222921831-5483073b-e48f-4fa2-aabb-47bc448f4879.png)
 
 
 # Data Source
