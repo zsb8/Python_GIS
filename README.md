@@ -46,6 +46,12 @@ if isinstance(value, str) or isinstance(value, list):
     geo_df['geocode'] = geo_df[boundary_columns].apply(lambda x: _get_geo(x) if x else '')
     result = geo_df
 ```
+# Resilt product
+I developed and provided various data tools that were utilized in data analysis projects. These tools were designed to gather, clean, transform, and store large amounts of data in a centralized location. This allowed data analysts and scientists to easily access and analyze the data, using a variety of visualization and reporting tools.     
+One key aspect of these data tools was their ability to display the analyzed data in maps and reports, providing key insights and visualizations for stakeholders. This was accomplished through the use of mapping and reporting tools such as Tableau, Power BI, and ArcGIS, among others.    
+
+
+https://www.youtube.com/watch?v=t7FHf5RlEA0
 
 # Data Source
 ![image](https://user-images.githubusercontent.com/75282285/218524464-67f4b510-03ad-4732-afa0-0b89d7b0a89b.png)
